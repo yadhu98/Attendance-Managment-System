@@ -3,7 +3,7 @@
 # Attendance Management System Requirements
 
 **Date:** April 2, 2025  
-**Author:** [Your Name]  
+**Author:** Yadhu Krishnan 
 **Version:** 1.0  
 **Purpose:** Define the functional and non-functional requirements for an attendance management system for a music, art, and dance school, ensuring scalability and extensibility.
 
